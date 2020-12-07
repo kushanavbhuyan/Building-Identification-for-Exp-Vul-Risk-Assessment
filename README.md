@@ -1,1 +1,1 @@
-# U-Net-code-for-Building-Detection
+# Pre-trained-U-Net-for-building-detection
