@@ -1,7 +1,0 @@
-
-#Detection phase consists of:
-
-1. Pre-processing of datasets
-2. Model training
-3. Model validation and testing
-4. Classification of satellite image 
