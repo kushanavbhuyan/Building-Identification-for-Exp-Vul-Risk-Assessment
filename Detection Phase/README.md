@@ -18,6 +18,8 @@ U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net]
 ## Deep Learning Networks: ResUnet
 ### ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both (Residual and UNet) models.
 
+Paper: https://arxiv.org/pdf/1711.10684.pdf
+
 Advantages:
 1. The residual unit will ease the training of the network.
 2. The skip connections within a residual unit and between low levels and high levels of the network will facilitate information propagation without degradation,making it possible to design a neural network with much fewer parameters.
