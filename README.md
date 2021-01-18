@@ -15,4 +15,25 @@ This architecture is based on the famous work of Olaf Ronnerberg called [U-Net](
 
 ![picture](https://drive.google.com/uc?export=view&id=1XhUD2J0evs9kP3PyBl4BPy86oUOCwQO8)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Information about buildings is, sufficed to say, a very important aspect not just for urban land registry or transportation but also for disaster/hazard risk assessment. Specifically, typological attributes of buildings like number of residents living in them, number of floors, and many more. The MSc Thesis Research aims at figuring out the typological attributes of the buildings by incorporating deep learning and other proxy information as a means of detecting and characterising the buildings.
