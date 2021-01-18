@@ -1,11 +1,11 @@
 # Deep Learning to Foster Building Footprint Detection 
-## This repository will be an on-going hub for my master thesis codes regarding the detection and characterisation of building elements-at-risk. Will be updating it every week or so with more codes and pre-processing updates.
+### This repository will be an on-going hub for my master thesis codes regarding the detection and characterisation of building elements-at-risk. Will be updating it every week or so with more codes and pre-processing updates.
 ## Stat-update: 0.2
 
 ## Information about buildings is, sufficed to say, a very important aspect not just for urban land registry or transportation but also for disaster/hazard risk assessment. Specifically, typological attributes of buildings like number of residents living in them, number of floors, and many more. The MSc Thesis Research aims at figuring out the typological attributes of the buildings by incorporating deep learning and other proxy information as a means of detecting and characterising the buildings.
 
 
-### Deep Learning Networks used: U-Net and ResUnet 
+### Deep Learning Networks: U-Net and ResUnet 
 
 U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net](https://arxiv.org/abs/1505.04597). The architecture consists of:
 
@@ -19,6 +19,7 @@ U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net]
 ![picture](https://drive.google.com/uc?export=view&id=1XhUD2J0evs9kP3PyBl4BPy86oUOCwQO8)
 
 
+## Deep Learning Networks: ResUnet
 ### ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both(Residual and UNet) models.
 
 Advantages:
