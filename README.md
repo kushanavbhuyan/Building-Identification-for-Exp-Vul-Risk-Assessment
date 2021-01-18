@@ -1,4 +1,4 @@
-# Deep Learning to Foster Building Footprint Detection 
+# Building Elements-at-risk Identification
 
 Stat-update: 0.2
 
