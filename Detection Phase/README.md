@@ -1,7 +1,7 @@
 
 # Deep Learning to Foster Building Footprint Detection 
 
-## Deep Learning Networks: U-Net and ResUnet 
+## Deep Learning Networks: U-Net 
 
 U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net](https://arxiv.org/abs/1505.04597). The architecture consists of:
 
@@ -19,6 +19,8 @@ U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net]
 ### ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both (Residual and UNet) models.
 
 Paper: https://arxiv.org/pdf/1711.10684.pdf
+
+![Deep Residual U-Net Architecture](https://drive.google.com/uc?export=view&id=1ARTPj6JgjifgWNTOctk19tTVKZy3h07q)
 
 Advantages:
 1. The residual unit will ease the training of the network.
