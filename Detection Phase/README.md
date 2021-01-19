@@ -12,7 +12,7 @@ U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net]
 5. UpSampling2D – To increase the size of the feature map. 
 6. SoftMax layer that generates a final segmentation map. 
 
-![picture](https://drive.google.com/uc?export=view&id=1XhUD2J0evs9kP3PyBl4BPy86oUOCwQO8)
+![U-Net](https://drive.google.com/uc?export=view&id=1XhUD2J0evs9kP3PyBl4BPy86oUOCwQO8)
 
 
 ## Deep Learning Networks: ResUnet
