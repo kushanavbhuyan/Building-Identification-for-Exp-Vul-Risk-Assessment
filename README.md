@@ -1,4 +1,4 @@
-# Building Elements-at-risk Identification for Exposure, Vulnerability and Hazard Risk Assessment with Open-Source Data
+# Building Elements-at-Risk Identification for Exposure, Vulnerability and Hazard Risk Assessment with Open-Source Data
 
 Stat-update: 0.2
 
