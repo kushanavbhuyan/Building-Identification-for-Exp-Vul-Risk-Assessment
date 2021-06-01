@@ -10,6 +10,6 @@ This repository is an on-going hub for my master thesis materials and codes rega
 
 Stat-update: 0.3
 
-The repository is almost finished and is being updated with final notebooks and full-datasets. 
+The repository is almost finished and will be updated with final notebooks and full-datasets soon. 
 
 
