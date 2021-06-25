@@ -14,4 +14,5 @@ The repository is almost finished and will be updated with final notebooks and f
 
 Stat-update: 0.4
 
-Codes are uploaded. Please contact for data. Will not be published here for permissionary reasons. 
+Codes are uploaded. Please contact for the data. Will not be published here for permissionary reasons. 
+Contact mail: kushanavb@gmail.com
