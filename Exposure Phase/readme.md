@@ -1,1 +1,1 @@
-
+This part of the module helps assess the risk of elements-at-risk through spatial overlay. The underlying package also allows estimation of loss to hazards, if such values are at the disposal of the user.
