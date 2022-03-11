@@ -12,15 +12,11 @@ U-Net architecture is based on the famous work of Olaf Ronnerberg called [U-Net]
 5. UpSampling2D – To increase the size of the feature map. 
 6. SoftMax layer that generates a final segmentation map. 
 
-![U-Net](https://drive.google.com/uc?export=view&id=1XhUD2J0evs9kP3PyBl4BPy86oUOCwQO8)
-
 
 ## Deep Learning Networks: ResUnet
 ### ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both (Residual and UNet) models.
 
 Paper: https://arxiv.org/pdf/1711.10684.pdf
-
-![Deep Residual U-Net Architecture](https://drive.google.com/uc?export=view&id=1ARTPj6JgjifgWNTOctk19tTVKZy3h07q)
 
 Advantages:
 1. The residual unit will ease the training of the network.
