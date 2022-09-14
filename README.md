@@ -4,6 +4,6 @@
 
 ### Information about buildings is, sufficed to say, a very important aspect not just for urban land registry or transportation but also for disaster/hazard risk assessment. Specifically, typological attributes of buildings like number of residents living in them, number of floors, and many more. The study aims at figuring out the typological attributes of the buildings by incorporating deep learning and other proxy information as a means of detecting and characterising the buildings.
 
-This repository is a hub for my [master thesis](http://essay.utwente.nl/88724/) materials and codes regarding the detection, characterisation and exposure of building elements-at-risk. Please contact for the data. Data will not be published here due to permissionary reasons. 
+This repository is a hub for my [Master Thesis](http://essay.utwente.nl/88724/) materials and codes regarding the detection, characterisation and exposure of building elements-at-risk. Please contact for the data. Data will not be published here due to permissionary reasons. 
 
 Contact mail: kushanavb@gmail.com
