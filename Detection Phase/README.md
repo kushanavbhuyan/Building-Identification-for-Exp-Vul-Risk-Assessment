@@ -23,7 +23,7 @@ Advantages:
 2. The skip connections within a residual unit and between low levels and high levels of the network will facilitate information propagation without degradation,making it possible to design a neural network with much fewer parameters.
 
 
-
+#### Prediction algorithm credits: [Ashok Dahal](https://github.com/ashokdahal). Please check his amazing work as well !!
 
 
 
