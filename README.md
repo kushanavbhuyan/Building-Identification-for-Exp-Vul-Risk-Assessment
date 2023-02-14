@@ -7,3 +7,5 @@
 This repository is a hub for the paper [Bhuyan et al. (2022)](https://link.springer.com/article/10.1007/s11069-022-05612-4) and [Master Thesis](http://essay.utwente.nl/88724/) materials and codes regarding the detection, characterisation and exposure of building elements-at-risk. Please contact for the data. Data will not be published here due to less storage capabilities in GitHub. 
 
 Contact mail: kushanavb@gmail.com
+
+If you use any codes, please cite this article: Bhuyan, K., Van Westen, C., Wang, J. et al. Mapping and characterising buildings for flood exposure analysis using open-source data and artificial intelligence. Nat Hazards (2022). https://doi.org/10.1007/s11069-022-05612-4
